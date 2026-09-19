@@ -23,7 +23,7 @@ export interface GeneratedResearchReport {
   recommendations: string[];
 }
 
-const DEFAULT_GROQ_KEY = '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';
+const DEFAULT_GROQ_KEY = 'gsk_V---------------';
 const STORAGE_KEY = 'ospss_groq_api_key';
 
 export function getSavedApiKey(): string {
