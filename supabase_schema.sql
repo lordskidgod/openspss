@@ -1,6 +1,6 @@
 -- ==============================================================================
 -- Open SPSS Web - Supabase Database Schema
--- Run this script in your Supabase SQL Editor (https://supabase.com/dashboard/project/kijujsndpsypwoylhaca/sql)
+-- Run this script in your Supabase SQL Editor
 -- ==============================================================================
 
 -- 1. Profiles Table (extends auth.users)
